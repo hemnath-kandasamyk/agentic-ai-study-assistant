@@ -1,0 +1,19 @@
+Agentic AI Study Notes
+
+An AI agent receives a user request, decides whether it needs a tool,
+executes the tool when necessary, and then returns a final answer.
+
+Important Phase 1 skills:
+- Python OOP
+- File handling
+- Async basics
+- REST APIs
+- Prompt engineering
+- LLM APIs
+
+Important Phase 2 skills:
+- LangChain tools
+- Agent frameworks
+- Memory
+- RAG
+- Vector databases
