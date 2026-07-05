@@ -29,7 +29,7 @@ A beginner-friendly **Agentic AI Study Assistant** built using **LangChain** and
                 User
                   │
                   ▼
-             main.py
+             app.py
                   │
                   ▼
             LangChain Agent
