@@ -158,7 +158,7 @@ GROQ_API_KEY=your_api_key_here
 # ▶️ Run the Application
 
 ```bash
-python main.py
+python app.py
 ```
 
 ---
@@ -266,7 +266,6 @@ This prevents unauthorized file access and demonstrates secure Agentic AI design
 - PDF Reader
 - Memory
 - RAG
-- ChromaDB
 - Web Search
 - Quiz Generator
 - Voice Assistant
