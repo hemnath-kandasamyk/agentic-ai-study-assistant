@@ -3,6 +3,9 @@
 A beginner-friendly **Agentic AI Study Assistant** built using **LangChain** and the **Groq LLM API**. The assistant can answer study-related questions by deciding when to use external tools such as a calculator or a file reader.
 
 ---
+## 🚀 Live Demo
+
+👉 **[Launch AI Study Assistant](https://agentic-ai-study-assistant-nla5bufhtvx6p6vpb5gxfr.streamlit.app/)**
 
 ## 🚀 Features
 
