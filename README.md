@@ -276,6 +276,17 @@ This prevents unauthorized file access and demonstrates secure Agentic AI design
 
 # 👨‍💻 Author
 
-Your Name
+Hemnath KK
 
 B.Tech Artificial Intelligence and Data Science
+
+
+| Criteria | Our Project (Groq + Llama 3.3) | Typical AI Chatbot |
+|----------|-------------------------------|--------------------|
+| LLM | Llama-3.3-70B | Varies |
+| Tool Calling | ✅ Calculator & File Reader | ❌ Often not integrated |
+| Local Study Notes | ✅ Supported | ❌ Usually not |
+| Deployment | Streamlit Cloud | Depends |
+| Cost for Students | ✅ Free Tier Available | Often API costs apply |
+| Development Language | Python Only | Multiple languages may be required |
+| Extensibility | High (new tools can be added) | Varies |
